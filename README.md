@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Laravel & Web Enthusiast</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;PHP+%26+Laravel+Lover;Building+Modern+Web+Apps;Always+Learning+New+Tech" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;PHP+%26+Laravel+Lover;Building+Modern+Web+Apps;Always+Learning+New+Tech" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
