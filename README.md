@@ -43,21 +43,6 @@ Saya menggunakan berbagai teknologi untuk membangun aplikasi yang handal dan ska
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=230672609">
-    <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=230672609&image_size=auto&color_scheme=dark" alt="Dashboard stats of @Alecto1b" width="100%" />
-  </a>
-</div>
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Alecto1b&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
-
----
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
