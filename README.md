@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/alecto2.0/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/Alecto1b" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:evansatria256@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -21,12 +21,14 @@
 
 ### 👨‍💻 About Me
 
-Saya adalah seorang developer yang memiliki antusiasme tinggi dalam pengembangan aplikasi web dan arsitektur backend. Senang bereksperimen, membangun tools yang efisien, dan mengeksplorasi ekosistem teknologi modern.
+Saya adalah seorang software & web developer yang berfokus pada ekosistem Laravel modern, arsitektur backend, dan otomatisasi. Senang bereksperimen, membangun tools yang fungsional, dan mengeksplorasi teknologi baru.
 
-- 🔭 Saat ini sedang mendalami ekosistem **Laravel (10-13), Livewire & Modern Web Development**
-- 🌱 Terus mengasah kemampuan dalam **Clean Architecture, Database Optimization & AI Integration**
+- 🔭 Sedang fokus mendalami ekosistem **Laravel (10–13), Livewire & Filament v4**
+- 🤖 Mengembangkan **Automation Tools, WhatsApp Gateway & MCP (Model Context Protocol)**
+- 🧩 Senang eksplorasi **Laravel Package Development, Browser Extensions & AI Integrations**
+- 🌱 Terus mengasah kemampuan dalam **Clean Architecture, Database Optimization & Scalable Systems**
 - ⚡ Fun fact: Suka eksplorasi package baru dan upgrade stack ke versi teranyar!
-- 🤝 Terbuka untuk kolaborasi dalam berbagai proyek open source maupun web development.
+- 🤝 Terbuka untuk kolaborasi dalam berbagai proyek open-source maupun web development.
 
 ---
 
@@ -36,10 +38,10 @@ Saya menggunakan berbagai teknologi untuk membangun aplikasi yang handal dan ska
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
-| **Frameworks** | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234E56A6.svg?style=flat-square&logo=livewire&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=flat-square&logoColor=white) |
+| **Languages & Runtimes** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
+| **Frameworks & Libraries** | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234E56A6.svg?style=flat-square&logo=livewire&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=flat-square&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=threedotjs&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) |
-| **Tools & Ecosystem** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Composer](https://img.shields.io/badge/composer-%23885630.svg?style=flat-square&logo=composer&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Tools & Ecosystem** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Composer](https://img.shields.io/badge/composer-%23885630.svg?style=flat-square&logo=composer&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 ---
 
