@@ -21,20 +21,20 @@
 
 ### 👨‍💻 About Me
 
-Saya adalah seorang software & web developer yang berfokus pada ekosistem Laravel modern, arsitektur backend, dan otomatisasi. Senang bereksperimen, membangun tools yang fungsional, dan mengeksplorasi teknologi baru.
+I am a software and web developer focused on the modern Laravel ecosystem, robust backend architectures, and automation. I enjoy tinkering under the hood, building practical tools, and exploring cutting-edge technologies.
 
-- 🔭 Sedang fokus mendalami ekosistem **Laravel (10–13), Livewire & Filament v4**
-- 🤖 Mengembangkan **Automation Tools, WhatsApp Gateway & MCP (Model Context Protocol)**
-- 🧩 Senang eksplorasi **Laravel Package Development, Browser Extensions & AI Integrations**
-- 🌱 Terus mengasah kemampuan dalam **Clean Architecture, Database Optimization & Scalable Systems**
-- ⚡ Fun fact: Suka eksplorasi package baru dan upgrade stack ke versi teranyar!
-- 🤝 Terbuka untuk kolaborasi dalam berbagai proyek open-source maupun web development.
+- 🔭 Currently diving deep into the **Laravel (10–13), Livewire & Filament v4** ecosystem
+- 🤖 Building **Automation Tools, WhatsApp Gateways & MCP (Model Context Protocol)** servers
+- 🧩 Passionate about **Laravel Package Development, Browser Extensions & AI Integrations**
+- 🌱 Continuously refining my skills in **Clean Architecture, Database Optimization & Scalable Systems**
+- ⚡ Fun fact: Always excited to test out newly released packages and keep dependencies on the bleeding edge!
+- 🤝 Open to collaborations on innovative web projects and open-source initiatives.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-Saya menggunakan berbagai teknologi untuk membangun aplikasi yang handal dan skalabel:
+Technologies and tools I use to build scalable, high-performance applications:
 
 | Category | Technologies |
 | :--- | :--- |
