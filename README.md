@@ -45,7 +45,7 @@ Technologies and tools I use to build scalable, high-performance applications:
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2500&color=7AA2F7&center=true&vCenter=true&width=750&lines=Keep+learning%2C+keep+building.;Small+steps+every+day+lead+to+big+results.;Great+things+take+time+and+consistent+effort.;Stay+curious.+Keep+creating." alt="Rotating motivational quotes" />
 </p>
 
 <p align="center">
