@@ -45,7 +45,7 @@ Technologies and tools I use to build scalable, high-performance applications:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2500&color=7AA2F7&center=true&vCenter=true&width=750&lines=Keep+learning%2C+keep+building.;Small+steps+every+day+lead+to+big+results.;Great+things+take+time+and+consistent+effort.;Stay+curious.+Keep+creating." alt="Rotating motivational quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=7AA2F7&center=true&vCenter=true&width=750&lines=%E2%80%9CThe%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.%E2%80%9D%20%E2%80%94%20Steve%20Jobs;%E2%80%9CWell%20done%20is%20better%20than%20well%20said.%E2%80%9D%20%E2%80%94%20Benjamin%20Franklin;%E2%80%9CNothing%20will%20work%20unless%20you%20do.%E2%80%9D%20%E2%80%94%20Maya%20Angelou" alt="Rotating motivational quotes" />
 </p>
 
 <p align="center">
