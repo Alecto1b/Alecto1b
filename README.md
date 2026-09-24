@@ -19,20 +19,19 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am a software and web developer focused on the modern Laravel ecosystem, robust backend architectures, and automation. I enjoy tinkering under the hood, building practical tools, and exploring cutting-edge technologies.
 
-- 🔭 Currently diving deep into the **Laravel (10–13), Livewire & Filament v4** ecosystem
-- 🤖 Building **Automation Tools, WhatsApp Gateways & MCP (Model Context Protocol)** servers
-- 🧩 Passionate about **Laravel Package Development, Browser Extensions & AI Integrations**
-- 🌱 Continuously refining my skills in **Clean Architecture, Database Optimization & Scalable Systems**
-- ⚡ Fun fact: Always excited to test out newly released packages and keep dependencies on the bleeding edge!
-- 🤝 Open to collaborations on innovative web projects and open-source initiatives.
+- 🔭 **Current Focus**: Modern Laravel (10–13), Livewire & Filament ecosystem
+- ⚙️ **Specialties**: Web automation, backend systems, and MCP integrations
+- 📦 **Open Source**: Laravel package development, browser extensions, and developer tooling
+- 🌱 **Learning & Research**: Clean architecture, database optimization, and scalable design
+- 💬 **Ask Me About**: PHP, Laravel, backend workflows, or automation
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 Technologies and tools I use to build scalable, high-performance applications:
 
